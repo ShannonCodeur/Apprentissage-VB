@@ -1,0 +1,11 @@
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\bin\Debug\Projet301.exe.config
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\bin\Debug\Projet301.exe
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\bin\Debug\Projet301.pdb
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\bin\Debug\Projet301.xml
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.vbprojAssemblyReference.cache
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.Resources.resources
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.vbproj.GenerateResource.cache
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.vbproj.CoreCompileInputs.cache
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.exe
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.xml
+C:\Users\EAGLE VISION\Videos\Projets\301\Projet301\obj\Debug\Projet301.pdb
